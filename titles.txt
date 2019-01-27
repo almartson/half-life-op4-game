@@ -336,6 +336,12 @@ OF3A1TITLE
 WE ARE NOT ALONE
 }
 
+//Empty title to fix "Xen" level bug
+C4A1TITLE
+{
+
+}
+
 OF3A3TITLE
 {
 CRUSH DEPTH

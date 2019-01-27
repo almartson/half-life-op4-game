@@ -1,0 +1,12 @@
+// Valve Game Info file
+//  These are key/value pairs.  Certain mods will use different settings.
+//
+game "Half-Life: Opposing Force SDK"
+mpentity "info_player_deathmatch"
+gamedll "dlls\hl.dll"
+gamedll_linux "dlls/hl.so"
+gamedll_osx "dlls/hl.dylib"
+secure "1"
+startmap "of0a0"
+trainmap "ofboot0"
+fallback_dir "gearbox"
